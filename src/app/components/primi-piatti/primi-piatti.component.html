@@ -1,0 +1,7 @@
+<h2>Primi Piatti</h2>
+<ul>
+  <li *ngFor="let piatto of primi">
+    <strong>{{ piatto.nome }}</strong> - €{{ piatto.prezzo }} <br>
+    <small>{{ piatto.descrizione }}</small>
+  </li>
+</ul>
