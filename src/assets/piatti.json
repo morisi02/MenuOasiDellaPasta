@@ -1,0 +1,10 @@
+{
+  "Primi": [
+    { "nome": "Spaghetti alla Carbonara", "prezzo": 12, "descrizione": "Pasta con uova, guanciale e pecorino." },
+    { "nome": "Lasagne al ragù", "prezzo": 15, "descrizione": "Strati di pasta con ragù e besciamella." }
+  ],
+  "Secondi": [
+    { "nome": "Bistecca alla Fiorentina", "prezzo": 25, "descrizione": "Carne di manzo alla griglia, spessa e succosa." },
+    { "nome": "Cotoletta alla Milanese", "prezzo": 18, "descrizione": "Carne impanata e fritta in burro chiarificato." }
+  ]
+}
